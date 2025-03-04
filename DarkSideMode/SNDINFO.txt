@@ -1,0 +1,17 @@
+//No More Heroes 3 Slot Sounds
+sltnmh3_1 sounds/NMHS1.wav
+sltnmh3_2 sounds/NMHS2.wav
+sltnmh3_3 sounds/NMHS3.wav
+sltnmh3_win sounds/NMH3SW.wav
+$limit sltnmh3_win 1
+//No More Heroes 2 win sound
+sltnmh2_win sounds/NMH2Slot/777.wav
+//Doom Slot Sounds
+sltdoom_win DSGETPOW
+sltdoom_1 DSSWTCHN
+//easter egg
+sltfku sounds/DSMFKU.ogg //vine boom
+//Stock anime slice sound
+TGSTRK sounds/TGSTRK
+//NMH 2 Tiger Roar
+TGROR sounds/TGROR

@@ -1,0 +1,64 @@
+AddOptionMenu "OptionsMenu" 
+{
+	SubMenu "$DSMNU_MNU", "DeathWheelOptions"
+}
+OptionMenu "DeathWheelOptions"
+{
+	Title "$DSMNU_MNUNAME"
+	statictext "$DSMNU_GAMEBAL",YELLOW statictext ""
+	Slider "$DSMNU_GAMEWC", "DW_WinChance",0.01, 100.00, 1,2  statictext ""
+	SubMenu "$SLPMNU_TITLE", "DeathWheelPList" statictext ""
+	statictext "$DSMNU_GAMESED", ICE
+	statictext "" statictext ""
+	Slider "$DSMNU_GAMESC", "DW_SoulCount",1, 2000, 10
+	Slider "$DSMNU_GAMESM", "DW_SoulMult",0.1, 4, 0.5
+	statictext ""
+	statictext "$DSMNU_SND",YELLOW statictext ""
+	Option "$DSMNU_SNDLS", "DW_WheelSounds", "DeathSlotSounds"
+	statictext ""
+	Option "$DSMNU_SNDWS", "DW_WheelWinSounds", "DeathSlotWinSounds"
+	statictext ""
+	statictext "$DSMNU_HUD",YELLOW statictext ""
+	Slider "$DSMNU_HUDX", "DW_SlotXOffset",0, 1, 0.1, 2
+	Slider "$DSMNU_HUDY", "DW_SlotYOffset",0, 1, 0.1, 2
+	Slider "$DSMNU_HUDS", "DW_SlotScale",1, 5, 1
+	Option "$DSMNU_HUDSDIR", "DW_SlotDir", "UpDown" statictext ""
+	Option "$DSMNU_HUDRW", "DW_RewFlash", "OnOff"
+	ColorPicker "$DSMNU_HUDRWC", "DW_RewColor"
+}
+OptionValue DeathSlotWinSounds
+{
+	0, "$DSMSS_SLDOOM"
+	1, "$DSMSS_SWNMH2"
+	2, "$DSMSS_SWNMH3"
+	3, "$DSMSS_NONE"
+}
+OptionValue DeathSlotSounds
+{
+	0, "$DSMSS_SLDOOM"
+	1, "$DSMSS_SLNMH"
+	2, "$DSMSS_NONE"
+}
+OptionValue "UpDown"
+{
+	0, "$DSMSTS_STDIRD"
+	1, "$DSMSTS_STDIRU"
+}
+OptionMenu "DeathWheelPList"
+{
+	Title "$SLPMNU_TITLE"
+	statictext ""
+	ScaleSlider "$SLPMNU_SLSPH", "DW_SoulSph",0,100,10, "$SLPMNU_PWSD"
+	ScaleSlider "$SLPMNU_SLBLA", "DW_MegArm",0,100,10, "$SLPMNU_PWSD"
+	ScaleSlider "$SLPMNU_SLMSP", "DW_MegaSph",0,100,10, "$SLPMNU_PWSD"
+	ScaleSlider "$SLPMNU_SLBPK", "DW_BackPak",0,100,10, "$SLPMNU_PWSD"
+	ScaleSlider "$SLPMNU_SLBSK", "DW_Berserk",0,100,10, "$SLPMNU_PWSD"
+	ScaleSlider "$SLPMNU_SLINV", "DW_Invinc",0,100,10, "$SLPMNU_PWSD"
+	ScaleSlider "$SLPMNU_SLCAM", "DW_MapPow",0,100,10, "$SLPMNU_PWSD"
+	ScaleSlider "$SLPMNU_SLPIN", "DW_ParInv",0,100,10, "$SLPMNU_PWSD"
+	ScaleSlider "$SLPMNU_SLRAD", "DW_EnvRes",0,100,10, "$SLPMNU_PWSD"
+	ScaleSlider "$SLPMNU_SLLAV", "DW_LightAmp",0,100,10, "$SLPMNU_PWSD" statictext ""
+	statictext "$SLPMNU_SLNPN", ICE
+	ScaleSlider "$SLPMNU_SLTIG", "DW_TigerForm",0,100,10, "$SLPMNU_PWSD"
+	
+}
