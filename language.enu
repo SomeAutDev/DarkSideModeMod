@@ -1,0 +1,50 @@
+[enu default]
+//OPTIONS MENU
+DSMNU_MNU = "Dark Side Mode Options";
+DSMNU_MNUNAME = "Dark Side Mode Menu";
+DSMNU_GAMEBAL = "Gameplay/Balance";
+DSMNU_GAMEWC = "Win Chance:";
+DSMNU_GAMESED = "Determines the amount of kills required to activate the slot machine.\nThe amount of tension gained depends on the enemy's max health.";
+DSMNU_GAMESC = "Tension Required:";
+DSMNU_GAMESM = "Tension Multiplier:";
+DSMNU_GAMESPD = "* Only replaces powerups if any mods that replace powerups are enabled";
+DSMNU_GAMESP = "Replace Slot Powerups";
+DSMNU_SND = "Sound";
+DSMNU_SNDLS = "Death Slot Lock Sounds";
+DSMNU_SNDWS = "Death Slot Win Sounds";
+DSMNU_HUD = "HUD/Visual";
+DSMNU_HUDX = "Death Slot X-Offset:";
+DSMNU_HUDY = "Death Slot Y-Offset:";
+DSMNU_HUDS = "Death Slot Scale:";
+DSMNU_HUDRW = "Flash On Reward";
+DSMNU_HUDRWC = "Flash Color";
+DSMNU_HUDSDIR = "Death Slot Stack Direction:";
+DSMSTS_STDIRU = "Up";
+DSMSTS_STDIRD = "Down";
+//Sound Settings
+DSMSS_SLNMH = "No More Heroes";
+DSMSS_SLDOOM = "Doom";
+DSMSS_NONE = "None";
+DSMSS_SWNMH2 = "No More Heroes 2";
+DSMSS_SWNMH3 = "No More Heroes 3";
+
+//Slot Power options
+SLPMNU_TITLE = "Slot Machine Options";
+SLPMNU_SLSPH = "Soul Sphere";
+SLPMNU_SLBPK = "Backpack";
+SLPMNU_SLBSK = "Berserk";
+SLPMNU_SLBLA = "Mega Armor";
+SLPMNU_SLINV = "Invulnerability Sphere";
+SLPMNU_SLPIN = "Partial Invisibility";
+SLPMNU_SLLAV = "Light Amplification Visor";
+SLPMNU_SLCAM = "Area Map";
+SLPMNU_SLRAD = "Radiation Suit";
+SLPMNU_SLMSP = "Megasphere";
+SLPMNU_SLNPW = "Additional Powerups";
+SLPMNU_SLNPN = "WARNING: THIS POWERUP MAY CAUSE ISSUES WHEN PLAYING WITH OTHER MODS";
+SLPMNU_SLTIG = "Tiger";
+SLPMNU_PWSD = "Disabled";
+
+DSM_ESTEGG = "Here's an item for you 	))		MY ASS";
+//Tiger Powerup
+DSM_TGRPOW = "Time to enter the garden of madness.";
