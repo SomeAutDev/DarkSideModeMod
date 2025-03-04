@@ -1,0 +1,25 @@
+user int DW_WheelWinSounds = 2; //Determines the sound effects of the slot machine
+user float DW_SlotXOffset = 0.5;
+user float DW_SlotYOffset = 0.85;
+user int DW_SlotDir = 1;
+user bool DW_RewFlash = true;
+user color DW_RewColor = "0xFE000000";
+user int DW_SlotScale = 2;
+user int DW_WheelSounds = 1; //determines the sounds of the slots locking
+server int DW_SoulCount = 1;
+server float DW_SoulMult = 1.00;
+server float DW_WinChance = 1.00;
+//Powerup Settings
+server int DW_Berserk = 20;
+server int DW_SoulSph = 25;
+server int DW_Invinc = 10;
+server int DW_MegArm = 25;
+server int DW_BackPak = 20;
+server int DW_MapPow = 0;
+server int DW_ParInv = 0;
+server int DW_EnvRes = 0;
+server int DW_LightAmp = 0;
+server int DW_MegaSph = 0;
+//Additional Powerups
+server int DW_TigerForm = 0;
+server int DW_Henshin = 0;
