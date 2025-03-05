@@ -8,10 +8,10 @@ Darkside Mode is a simple, flexible and (mostly) compatible Doom mod that adds t
   GZDoom 4.13+,
   Doom 1/2.
 ## Features
-  Every time you kill an enemy/fill up the optional tension meter, a slot machine pops up, if all 3 icons match you get a powerup.
-  An options menu that lets players, fine tune the UI, win chance, and the chances of winning certain powerups.
-  An optional Tension Gauge that triggers the slot machine once it's full, fill it by killing enemies.
-  The tiger morph powerup from _No More Heroes 2_. It turns the player into an invincible tiger that deals massive damage with it's sharp claws.
+  * Every time you kill an enemy/fill up the optional tension meter, a slot machine pops up, if all 3 icons match you get a powerup.
+  * An options menu that lets players, fine tune the UI, win chance, and the chances of winning certain powerups.
+  * An optional Tension Gauge that triggers the slot machine once it's full, fill it by killing enemies.
+  * The tiger morph powerup from _No More Heroes 2_. It turns the player into an invincible tiger that deals massive damage with it's sharp claws.
 
 ## Recommended mods
 While I always designed this mod around compatibility, 
