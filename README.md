@@ -1,28 +1,39 @@
 ![darksidemodelogo](https://github.com/user-attachments/assets/7f918bee-c1d5-45e5-b359-dd3196775842)
 
 
-DarkSide Mode is a simple, flexible and (mostly) compatable Doom mod that adds the slot machine system (AKA Darkside Mode) from No More Heroes, into Doom.
+Darkside Mode is a simple, flexible and (mostly) compatable Doom mod that adds the slot machine system (AKA Darkside Mode) from _No More Heroes_, into Doom.
 
 
 ## Requirements
   GZDoom 4.13+,
   Doom 1/2.
 ## Features
-  The tiger morph powerup from No More Heroes 2. It turns the player into an invincible tiger that deals massive damage with it's sharp claws.
-  An options menu that lets players,
+  Every time you kill an enemy/fill up the optional tension meter, a slot machine pops up, if all 3 icons match you get a powerup.
+  An options menu that lets players, fine tune the UI, win chance, and the chances of winning certain powerups.
+  An optional Tension Gauge that triggers the slot machine once it's full, fill it by killing enemies.
+  The tiger morph powerup from _No More Heroes 2_. It turns the player into an invincible tiger that deals massive damage with it's sharp claws.
+
+## Recommended mods
+While I always designed this mod around compatability, 
+the mods I had in mind the most were _Doomer7_ (due to it also being Suda51 themed), and _Reelism_.
 ## Issues with certain mods.
   ### Minor issues
-  * Brutal Doom/Any mod that uses Brutal Doom's gore system: If tension is disabled, 2 slot machines pop up on most kills. If it's off then you gain twice the tension per kill.
-  * LiTDoom: Must manually pick up rewards spawned by the slot machine.
-  * Stray Mod: Tiger Sprite appears on top of cat when Tiger morph is active.
+  * _Brutal Doom_/Any mod that uses Brutal Doom's gore system: If tension is disabled, 2 slot machines pop up on most kills. If it's off then you gain twice the tension per kill.
+  * _LiTDoom_: Must manually pick up rewards spawned by the slot machine.
+  * _Stray Mod_: Tiger Sprite appears on top of cat when Tiger morph is active.
+  * _High Noon Drifter_ : Collecting the tiger morph while playing as Basilissa does nothing but still adds it to your inventory.
   
   ### Crashes
   Any IWAD that doesn't use Doom's powerups such as Castlevania Simon's Destiny & Action Doom 2.
   ### Tiger Powerup Specific Crashes
   Mods that crash when triggering the Tiger Powerup (hence why it's disabled by default).
-   * Russian OverKill (Crashes after powerup wears off.)
-   * Sonic: Lock n Load (Only when playing as sonic, works fine with other characters.)
-   * La Tailor Girl 
-   * Guncaster
-   * Hellrider
-    
+   * _Russian OverKill_ (Crashes after powerup wears off.)
+   * _Sonic: Lock n Load_ (Only when playing as sonic, works fine with other characters.)
+   * _La Tailor Girl_ 
+   * _Guncaster_
+   * _Hellrider_
+## Copyright
+Darkside mod is a doom mod based on the No More Heroes games by Grasshopper Manufacture. The rights to No More Heroes belong to Marvelous Inc
+## Credits
+  Sprites and Programming: SomeAutisticDev
+  Special Thanks: DoomerDev, Agent_Ash, Suda 51.
