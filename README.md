@@ -1,7 +1,7 @@
 ![darksidemodelogo](https://github.com/user-attachments/assets/7f918bee-c1d5-45e5-b359-dd3196775842)
 
 
-Darkside Mode is a simple, flexible and (mostly) compatable Doom mod that adds the slot machine system (AKA Darkside Mode) from _No More Heroes_, into Doom.
+Darkside Mode is a simple, flexible and (mostly) compatible Doom mod that adds the slot machine system (AKA Darkside Mode) from _No More Heroes_, into Doom.
 
 
 ## Requirements
@@ -14,7 +14,7 @@ Darkside Mode is a simple, flexible and (mostly) compatable Doom mod that adds t
   The tiger morph powerup from _No More Heroes 2_. It turns the player into an invincible tiger that deals massive damage with it's sharp claws.
 
 ## Recommended mods
-While I always designed this mod around compatability, 
+While I always designed this mod around compatibility, 
 the mods I had in mind the most were _Doomer7_ (due to it also being Suda51 themed), and _Reelism_.
 ## Issues with certain mods.
   ### Minor issues
@@ -33,7 +33,9 @@ the mods I had in mind the most were _Doomer7_ (due to it also being Suda51 them
    * _Guncaster_
    * _Hellrider_
 ## Copyright
-Darkside mod is a doom mod based on the No More Heroes games by Grasshopper Manufacture. The rights to No More Heroes belong to Marvelous Inc
+Darkside mod is a doom mod based on the No More Heroes games by Grasshopper Manufacture. The rights to No More Heroes belong to Marvelous Inc.
+Most of the sound effects from the mod are from No More Heroes 2, and 3. As such, they belong to Marvelous. These sounds are under fair use, and the author does not own these sounds or the licences to them.
+The custom sprites created by the author
 ## Credits
   Sprites and Programming: SomeAutisticDev
   Special Thanks: DoomerDev, Agent_Ash, Suda 51.
