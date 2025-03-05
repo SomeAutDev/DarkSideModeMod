@@ -12,9 +12,9 @@ DarkSide Mode is a simple, flexible and (mostly) compatable Doom mod that adds t
   An options menu that lets players,
 ## Issues with certain mods.
   ### Minor issues
-    Brutal Doom/Any mod that uses Brutal Doom's gore system: If tension is disabled, 2 slot machines pop up on most kills. If it's off then you gain twice the tension per kill.
-    LiTDoom: Must manually pick up rewards spawned by the slot machine.
-    Stray Mod: Tiger Sprite appears on top of cat when Tiger morph is active.
+  * Brutal Doom/Any mod that uses Brutal Doom's gore system: If tension is disabled, 2 slot machines pop up on most kills. If it's off then you gain twice the tension per kill.
+  * LiTDoom: Must manually pick up rewards spawned by the slot machine.
+  * Stray Mod: Tiger Sprite appears on top of cat when Tiger morph is active.
   
   ### Crashes
   Any IWAD that doesn't use Doom's powerups such as Castlevania Simon's Destiny & Action Doom 2.
