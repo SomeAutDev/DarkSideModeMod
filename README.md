@@ -27,7 +27,7 @@ the mods I had in mind the most were _Doomer7_ (due to it also being Suda51 them
   Any IWAD that doesn't use Doom's powerups such as Castlevania Simon's Destiny & Action Doom 2.
   ### Tiger Powerup Specific Crashes
   Mods that crash when triggering the Tiger Powerup (hence why it's disabled by default).
-   * _Russian OverKill_ (Crashes after powerup wears off.)
+   * _Russian Overkill_ (Crashes after powerup wears off.)
    * _Sonic: Lock n Load_ (Only when playing as sonic, works fine with other characters.)
    * _La Tailor Girl_ 
    * _Guncaster_
@@ -37,7 +37,7 @@ Darkside mod is a doom mod based on the No More Heroes games by Grasshopper Manu
 Most of the sound effects from the mod are from _No More Heroes_ 2, and 3. As such, they belong to Marvelous.  
 The exceptions are a vine-boom you can only get by summoning a hidden powerup from the console, and a stock anime slice sound effect for hitting enemies with tiger claws.  
 The custom sprites created by the author.  
-The code was made entirly by the author (with some help from the ZDoom discord server).
+The code was made entirely by the author (with some help from the ZDoom discord server).
 
 ## Credits
   Sprites and Programming: SomeAutisticDev  
