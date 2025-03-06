@@ -28,7 +28,7 @@ DSMSS_SWNMH3 = "No More Heroes 3";
 
 //Slot Power options
 SLPMNU_TITLE = "Slot Machine Options";
-SLPMNU_DISC = "* Changes to powerup chances will apply when restarting/loading a level";
+SLPMNU_DISC = "* Changes to powerup chances will apply when restarting/loading a level.";
 SLPMNU_SLSPH = "Soul Sphere";
 SLPMNU_SLBPK = "Backpack";
 SLPMNU_SLBSK = "Berserk";
