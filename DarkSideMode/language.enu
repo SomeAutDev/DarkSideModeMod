@@ -1,7 +1,7 @@
 [enu default]
 //OPTIONS MENU
-DSMNU_MNU = "Dark Side Mode Options";
-DSMNU_MNUNAME = "Dark Side Mode Menu";
+DSMNU_MNU = "Darkside Mode Options";
+DSMNU_MNUNAME = "Darkside Mode Menu";
 DSMNU_GAMEBAL = "Gameplay/Balance";
 DSMNU_GAMEWC = "Win Chance:";
 DSMNU_GAMESED = "Determines the amount of kills required to activate the slot machine.\nThe amount of tension gained depends on the enemy's max health.";
@@ -28,6 +28,7 @@ DSMSS_SWNMH3 = "No More Heroes 3";
 
 //Slot Power options
 SLPMNU_TITLE = "Slot Machine Options";
+SLPMNU_DISC = "* Changes to powerup chances will apply when restarting/loading a level";
 SLPMNU_SLSPH = "Soul Sphere";
 SLPMNU_SLBPK = "Backpack";
 SLPMNU_SLBSK = "Berserk";
