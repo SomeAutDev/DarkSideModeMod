@@ -14,7 +14,7 @@ Darkside Mode is a simple, flexible and (mostly) compatible Doom mod that adds t
   * The tiger morph powerup from _No More Heroes 2_. It turns the player into an invincible tiger that deals massive damage with it's sharp claws. (You need to activate it in the options menu first, it also might crash when playing with certain mods).
 
 ## Recommended mods
-While I always designed this mod around compatibility, 
+While I always designed this mod around compatibility,  
 the mods I had in mind the most were _Doomer7_ (due to it also being Suda51 themed), and _Reelism_.
 ## Issues with certain mods.
   ### Minor issues
@@ -37,8 +37,8 @@ Darkside mod is a doom mod based on the No More Heroes games by Grasshopper Manu
 Most of the sound effects from the mod are from _No More Heroes_ 2, and 3. As such, they belong to Marvelous.  
 The exceptions are a vine-boom you can only get by summoning a hidden powerup from the console, and a stock anime slice sound effect for hitting enemies with tiger claws.  
 The custom sprites created by the author.  
-The code was made entirly by the Author (with some help from the ZDoom discord server).
+The code was made entirly by the author (with some help from the ZDoom discord server).
 
 ## Credits
-  Sprites and Programming: SomeAutisticDev
+  Sprites and Programming: SomeAutisticDev  
   Special Thanks: DoomerDev, Agent_Ash, Suda 51, and the ZDoom discord.
