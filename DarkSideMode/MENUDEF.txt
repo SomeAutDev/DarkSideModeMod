@@ -48,6 +48,7 @@ OptionMenu "DeathWheelPList"
 {
 	Title "$SLPMNU_TITLE"
 	statictext ""
+	statictext "$SLPMNU_DISC", ICE statictext ""
 	ScaleSlider "$SLPMNU_SLSPH", "DW_SoulSph",0,100,10, "$SLPMNU_PWSD"
 	ScaleSlider "$SLPMNU_SLBLA", "DW_MegArm",0,100,10, "$SLPMNU_PWSD"
 	ScaleSlider "$SLPMNU_SLMSP", "DW_MegaSph",0,100,10, "$SLPMNU_PWSD"
