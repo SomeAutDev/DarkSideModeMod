@@ -24,7 +24,7 @@ the mods I had in mind the most were _Doomer7_ (due to it also being Suda51 them
   * _High Noon Drifter_ : Collecting the tiger morph while playing as Basilissa does nothing but still adds it to your inventory.
   
   ### Crashes
-  ~~Any IWAD that doesn't use Doom's powerups such as Castlevania Simon's Destiny & Action Doom 2.~~
+  ~~Any IWAD that doesn't use Doom's powerups such as Castlevania Simon's Destiny & Action Doom 2.~~  
   Fixed in Version 1.0.1
   ### Tiger Powerup Specific Crashes
   Mods that crash when triggering the Tiger Powerup (hence why it's disabled by default).
