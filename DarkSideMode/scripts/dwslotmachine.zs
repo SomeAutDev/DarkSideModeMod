@@ -87,7 +87,6 @@ class SlotController : Thinker
   void WinSounds()
   {
 	CVar cv_sound = CVar.FindCVar('DW_WheelWinSounds');
-	float cv_vol = CVar.FindCVar('DW_SlotVol').GetFloat();
 	switch(cv_sound.GetInt())
 	{
 		case 0: //Doom
