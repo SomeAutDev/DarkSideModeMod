@@ -34,7 +34,7 @@ the mods I had in mind the most were _Doomer7_ (due to it also being Suda51 them
    * _Guncaster_
    * _Hellrider_
 ## Copyright
-Darkside mod is a doom mod based on the No More Heroes games by Grasshopper Manufacture. The rights to _No More Heroes_ belong to Marvelous Inc. The rights to _Doom_ belong to ID Software.  
+Darkside mode is a doom mod based on the No More Heroes games by Grasshopper Manufacture. The rights to _No More Heroes_ belong to Marvelous Inc. The rights to _Doom_ belong to ID Software.  
 Most of the sound effects from the mod are from _No More Heroes_ 2, and 3. As such, they belong to Marvelous.  
 The exceptions are a vine-boom you can only get by summoning a hidden powerup from the console, and a stock anime slice sound effect for hitting enemies with tiger claws.  
 The custom sprites were created by the author.  
