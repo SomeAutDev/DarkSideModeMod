@@ -18,7 +18,7 @@ While I always designed this mod around compatibility,
 the mods I had in mind the most were _Doomer7_ (due to it also being Suda51 themed), and _Reelism_.
 ## Issues with certain mods.
   ### Minor issues
-  * _Brutal Doom_/Any mod that uses Brutal Doom's gore system: If tension is disabled, 2 slot machines pop up on most kills. If it's off then you gain twice the tension per kill.
+  * _Brutal Doom_/Any mod that uses Brutal Doom's gore system: If tension is disabled, 2 slot machines pop up on most kills. If it's on then you gain twice the tension per kill.
   * _LiTDoom_: Must manually pick up rewards spawned by the slot machine.
   * _Stray Mod_: Tiger Sprite appears on top of the player when Tiger morph is active.
   * _High Noon Drifter_ : Collecting the tiger morph while playing as Basilissa does nothing but still adds it to your inventory.
